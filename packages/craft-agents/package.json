@@ -23,5 +23,9 @@
     "type": "git",
     "url": "git+https://github.com/magpie-community/plugins.git",
     "directory": "packages/craft-agents"
+  },
+  "author": {
+    "name": "HiJizo",
+    "url": "https://github.com/HiJizo"
   }
 }
